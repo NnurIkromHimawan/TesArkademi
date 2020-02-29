@@ -1,2 +1,1 @@
-# TesArkademi
-Project ini untuk tes arkademi
+semua bahasa pemrograman yang dipakai adalah php, 
